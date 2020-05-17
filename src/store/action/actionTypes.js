@@ -1,0 +1,8 @@
+export const GET_QUESTIONS = 'GET_QUESTIONS';
+export const SET_QUESTIONS = 'SET_QUESTIONS';
+export const NEXT_QUESTION = 'NEXT_QUESTION';
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const SET_CATEGORIES = 'SET_CATEGORIES';
+
+export const GET_SCORE = 'GET_SCORE';
+export const ADD_SCORE = 'ADD_SCORE';

@@ -1,0 +1,4 @@
+{
+  "colorize.languages": ["javascript", "css"],
+  "colorize.colorized_colors": ["HEXA", "BROWSERS_COLORS", "RGB"]
+}
